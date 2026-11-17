@@ -1,0 +1,6 @@
+*.json
+*.txt
+.env
+__pycache__/
+chat_split/
+.chatconv-*.tmp
